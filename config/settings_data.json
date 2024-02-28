@@ -155,7 +155,7 @@
           "show_social_links": true,
           "header_email_text": "thalia@example.com",
           "logo_use_image": true,
-          "logo": "shopify:\/\/shop_images\/Logo.png",
+          "height": 27,
           "header_menu_1": "main-menu"
         }
       },
@@ -167,9 +167,8 @@
           "footer_about_us": "Any questions? Let us know in store at 8th floor, 379 Hudson St, New York, NY 10018 or call us on (+1) 96 716 6879",
           "footer_social_enable": true,
           "logo_use_image": true,
-          "logo": "shopify:\/\/shop_images\/Logo.png",
           "footer_menu_1": "footer",
-          "footer_menu_2": "brand",
+          "footer_menu_2": "",
           "footer_newsletter_text": "Subscribe your email to get the latest news and new offer also discount",
           "footer_newsletter_enable": true,
           "mailing_list_form_action": "",
@@ -183,7 +182,7 @@
           "1480267833382-1": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/StockSnap_Y8O9M1KOT2_1920x570_1666e022-5cc4-4119-b856-173bb5fd0035.png",
+              "image": "shopify:\/\/shop_images\/model-with-leather-jacket-over-shoulders.jpg",
               "textbox-alignment": "center",
               "textbox-vertical-alignment": "center",
               "horizontal-offset": 0,
@@ -201,7 +200,7 @@
           "1591458140141": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/IMG_copy.png",
+              "image": "shopify:\/\/shop_images\/woman-poses-in-dark-room.jpg",
               "textbox-alignment": "center",
               "textbox-vertical-alignment": "center",
               "horizontal-offset": 0,
@@ -219,7 +218,7 @@
           "1591458260782": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Clip_4c0e8e9e-ae61-422c-b0d3-23da8ae1cf85.png",
+              "image": "shopify:\/\/shop_images\/bright-floral-womens-summer-fashion.jpg",
               "textbox-alignment": "center",
               "textbox-vertical-alignment": "center",
               "horizontal-offset": 0,
@@ -254,7 +253,6 @@
           "1506803308948": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Layer_144.png",
               "link_text": "Shoes",
               "link_subtext": "",
               "link": "shopify:\/\/collections\/all"
@@ -263,7 +261,6 @@
           "1514473881970": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/StockSnap_TDP31WN0WB.png",
               "link_text": "Women",
               "link_subtext": "",
               "link": "#"
@@ -272,7 +269,6 @@
           "1514473919786": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/StockSnap_HX0ATMWK9N.png",
               "link_text": "Men",
               "link_subtext": "",
               "link": "#"
@@ -281,7 +277,6 @@
           "1514473952044": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Layer_148.png",
               "link_text": "Bags",
               "link_subtext": "",
               "link": "shopify:\/\/collections\/all"
@@ -290,7 +285,6 @@
           "1580581842547": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Layer_145.png",
               "link_text": "Dress",
               "link_subtext": "",
               "link": "#"
@@ -328,7 +322,6 @@
               "product_deal": "satin-pocket-shirt",
               "custom_image": true,
               "product_color": "#be8445",
-              "product_image": "shopify:\/\/shop_images\/Untitled_design_-_2020-05-27T172040.169.png",
               "timer": true,
               "expiry_deal": ""
             }
@@ -341,7 +334,6 @@
           "top-margin": 0,
           "bottom-margin": 70,
           "background_color": "#f7f2ee",
-          "image": "shopify:\/\/shop_images\/Untitled_design_-_2020-05-27T170336.447.png",
           "heading": "Deal of the week",
           "subheading": "Satin pocket shirt",
           "link_text": "SHOP NOW",
@@ -354,7 +346,6 @@
           "1580801102810-0": {
             "type": "box",
             "settings": {
-              "icon": "shopify:\/\/shop_images\/black_loan-16_small_491f6577-6b17-49ca-ba00-56f8e8360fd8.png",
               "feature_service_title": "Free Delivery",
               "feature_service_description": "For all order over 99$"
             }
@@ -362,7 +353,6 @@
           "1580801102810-1": {
             "type": "box",
             "settings": {
-              "icon": "shopify:\/\/shop_images\/black_liquidity-22_small_15566fd2-8b51-4600-89b3-93e7543543f6.png",
               "feature_service_title": "30 Days Return",
               "feature_service_description": "If goods have Problems"
             }
@@ -370,7 +360,6 @@
           "1580801108505": {
             "type": "box",
             "settings": {
-              "icon": "shopify:\/\/shop_images\/black_credit_card_small_35b78b87-1227-4451-8826-2b90856db9ad.png",
               "feature_service_title": "Secure Payment",
               "feature_service_description": "100% secure payment"
             }
@@ -378,7 +367,6 @@
           "1580801113098": {
             "type": "box",
             "settings": {
-              "icon": "shopify:\/\/shop_images\/black_support-14_small_c5fabe9c-dd98-4fd5-b375-6120c7570277.png",
               "feature_service_title": "24\/7 Support",
               "feature_service_description": "Dedicated support"
             }
@@ -810,7 +798,6 @@
           "1591214382574-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Untitled_design_-_2020-06-03T223005.597.png",
               "link_text": "Lookbook",
               "link_subtext": "MEN COLLECTION 2020",
               "link": ""
@@ -819,7 +806,6 @@
           "1591214382574-1": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/StockSnap_TDP31WN0WB.png",
               "link_text": "WOMEN COLLECTION 2020",
               "link_subtext": "",
               "link": ""
